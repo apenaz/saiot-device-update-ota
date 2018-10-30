@@ -1,0 +1,11 @@
+{
+  "name": "updateota",
+  "version": "0.0.1",
+  "description": "Subprojeto para teste de ambiente de atualização automatica do firmware dos dispositivos criados para o projeto Smart Automation using Internet of Things (Saiot)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Patricio Oliveira (apenaz)",
+  "license": "ISC"
+}
